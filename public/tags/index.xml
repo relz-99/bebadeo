@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Universal</title>
-    <link>/tags/</link>
+    <link>https://bebadeo.netlify.app/tags/</link>
     <description>Recent content in Tags on Universal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bebadeo.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Golang</title>
-      <link>/tags/golang/</link>
+      <link>https://bebadeo.netlify.app/tags/golang/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>/tags/golang/</guid>
+      <guid>https://bebadeo.netlify.app/tags/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>/tags/hugo/</link>
+      <link>https://bebadeo.netlify.app/tags/hugo/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>/tags/hugo/</guid>
+      <guid>https://bebadeo.netlify.app/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>/tags/programming/</link>
+      <link>https://bebadeo.netlify.app/tags/programming/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>/tags/programming/</guid>
+      <guid>https://bebadeo.netlify.app/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme</title>
-      <link>/tags/theme/</link>
+      <link>https://bebadeo.netlify.app/tags/theme/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>/tags/theme/</guid>
+      <guid>https://bebadeo.netlify.app/tags/theme/</guid>
       <description></description>
     </item>
     <item>
       <title>Go</title>
-      <link>/tags/go/</link>
+      <link>https://bebadeo.netlify.app/tags/go/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      <guid>/tags/go/</guid>
+      <guid>https://bebadeo.netlify.app/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>Ipsum</title>
-      <link>/tags/ipsum/</link>
+      <link>https://bebadeo.netlify.app/tags/ipsum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/ipsum/</guid>
+      <guid>https://bebadeo.netlify.app/tags/ipsum/</guid>
       <description></description>
     </item>
   </channel>
